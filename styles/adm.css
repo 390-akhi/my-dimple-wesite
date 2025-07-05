@@ -1,0 +1,15 @@
+.uniname{
+    font-weight: bolder;
+    margin: 10px;
+    border: 5px solid green;
+}
+.pubpri{
+    color: palevioletred;
+    font-size: medium;
+}
+.last{
+           border: 8px solid green;
+            margin: 12px;
+            padding: 8px;
+            text-align: justify;
+}
